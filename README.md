@@ -1,5 +1,5 @@
 # E-COMMERCE MOBILE APP 
 
 Using:
--Flutter-Dart\n
+-Flutter-Dart
 -Google's Firebase
