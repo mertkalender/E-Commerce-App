@@ -1,5 +1,5 @@
-# DOYENS E-COMMERCE MOBILE APP 
+# E-COMMERCE MOBILE APP 
 
 Using:
--Flutter
--Firebase
+-Flutter-Dart
+-Google's Firebase
